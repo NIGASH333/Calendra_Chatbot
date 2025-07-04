@@ -64,12 +64,3 @@ You: Delete all
 Bot: ⚠️ Delete ALL upcoming events? Type 'yes' to confirm: yes
 Bot: ✅ All upcoming events deleted.
 ```
-
-## Notes
-
-- Do **not** share your `credentials.json` or `token.json` files publicly.
-- Deleting all events is irreversible—use with caution!
-
----
-
-**Enjoy your Calendar Chatbot!**
